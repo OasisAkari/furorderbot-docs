@@ -15,18 +15,6 @@ theme:
   favicon: assets/favicon.ico
   logo: assets/logo.svg
 
-extra:
-  social:
-    - icon: material/web
-      link: https://teahou.se/
-      name: Website
-    - icon: octicons/mark-github-16
-      link: https://github.com/Teahouse-Studios/
-      name: GitHub
-    - icon: material/email
-      link: mailto:admin@teahou.se
-      name: Email us
-
 extra_css:
   - custom/custom.css
 
